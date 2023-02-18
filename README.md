@@ -5,7 +5,7 @@ Sentiment Analysis of Twitter and Technote Data on Technology in Azerbaijan
 
 This repository contains code and data for a sentiment analysis project that focuses on technology-related content in Azerbaijan. The project uses data from two sources: Twitter and TechNote, a local technology news website.
 
-The sentiment analysis aims to classify each tweet and TechNote article into one of three categories: positive, negative, or neutral. This is achieved using machine learning techniques and natural language processing libraries such as NLTK and Scikit-learn.
+The sentiment analysis aims to classify each tweet and TechNote article into one of three categories: positive, negative, or neutral. This is achieved using natural language processing library NLTK.
 
 The code is written in Python and is divided into two main parts: data collection and preprocessing, and modeling and analysis. The data collection and preprocessing scripts use the Twitter API and web scraping techniques to retrieve and clean the data. 
 
